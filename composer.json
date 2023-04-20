@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpunit/php-timer": "^1.0",
+        "laravel/ui": "^3.4",
+        "firebase/php-jwt": "^6.4"
+    }
+}
